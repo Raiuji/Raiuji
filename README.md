@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Raiuji
 - 👀 I’m interested in the cosmos ecosystem
-- 🌱 I’m currently learning goalng  
+- 🌱 I’m currently learning golang/cosmos sdk  
 - 💞️ I’m looking to collaborate on a new project
 - 📫 How to reach me? discord/twitter
 
